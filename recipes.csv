@@ -1,0 +1,102 @@
+﻿Dish Name,Primary Protein,Spice Level,Cuisine Type,Cook Time (mins),Difficulty,Vegetarian?,Vegan?,Gluten-Free?,Allergens
+Pad Thai,Chicken,Hot,Thai,44,Medium,No,No,Yes,None
+Chana Masala,Chickpeas,Medium,Indian,19,Medium,No,No,No,Shellfish
+Spaghetti Carbonara,bacon,Medium,italian,11,Hard,No,No,Yes,Shellfish
+Beef Tacos,beef,Hot,mexican,13,Easy,Yes,Yes,Yes,None
+Falafel Wrap,falafel,Mild,Middle Eastern,16,Hard,Yes,Yes,Yes,"Nuts, Dairy"
+Sushi Roll,Fish,Hot,Japanese,11,Hard,No,No,Yes,"Nuts, Shellfish"
+Pho,beef,Mild,Vietnamese,31,Hard,No,No,No,None
+Butter Chicken,chicken,Medium,indian,43,Hard,Yes,No,Yes,"Dairy, Soy"
+Bulgogi,Beef,Mild,korean,44,Hard,No,No,Yes,"Sesame, Shellfish"
+Peking Duck,duck,Hot,chinese,45,Easy,Yes,Yes,Yes,None
+Moussaka,lamb,Mild,Greek,19,Hard,No,No,No,None
+Gazpacho,vegetables,Extra Hot,spanish,42,Easy,No,No,No,None
+Kimchi Stew,vegetables,Mild,korean,30,Medium,No,No,Yes,"Shellfish, None"
+Ratatouille,vegetables,Mild,French,27,Medium,No,No,No,None
+Shepherd's Pie,beef,Medium,british,32,Hard,No,No,Yes,None
+Chicken Alfredo,chicken,Medium,italian,33,Easy,Yes,No,No,"Sesame, Shellfish"
+Tom Yum Soup,vegetables,Hot,thai,39,Medium,No,No,No,Eggs
+Green Curry,chicken,Mild,thai,22,Easy,Yes,No,No,None
+Lasagna,beef,Extra Hot,italian,18,Medium,Yes,No,Yes,None
+Pierogi,vegetables,Medium,polish,42,Hard,Yes,Yes,No,Soy
+Empanadas,beeg,Mild,mexican,29,Easy,No,No,Yes,None
+Gyoza,Pork,Mild,japanese,41,Easy,No,No,No,Soy
+Ceviche,Shrimp,Mild,peru,39,Medium,Yes,Yes,No,Sesame
+Okonomiyaki,pork,Hot,japanese,13,Medium,Yes,Yes,No,None
+Paella,chicken,Hot,spanish,23,Easy,No,No,Yes,"None, Eggs"
+Tandoori Chicken,chicken,Hot,indian,35,Easy,No,No,No,"Eggs, Nuts"
+Shrimp Scampi,Shrimp,Medium,italian,40,Easy,No,No,Yes,"Dairy, Shellfish"
+Beef Stroganoff,beef,Extra Hot,russian,44,Hard,No,No,No,None
+Caesar Salad,vegetables,Extra Hot,mexican,22,Hard,Yes,No,No,"Soy, Sesame"
+Eggplant Parmesan,vegetables,Hot,italian,24,Easy,No,No,Yes,Nuts
+Chicken Tikka Masala,chicken,Medium,indian,33,Hard,No,No,No,None
+Pulled Pork Sandwich,Pork,Extra Hot,american,44,Easy,Yes,Yes,No,"Eggs, Dairy"
+Clam Chowder,seafood,Mild,american,12,Easy,Yes,Yes,Yes,"None, Dairy"
+Lamb Tagine,lamb,Medium,Moroccan,22,Easy,Yes,No,No,"None, Shellfish"
+Vegetable Biryani,vegetables,Mild,idnain,37,Easy,No,No,Yes,"Eggs, Sesame"
+Shakshuka,egg,Medium,african,21,Medium,No,No,Yes,"Eggs, Soy"
+Arepas,vegetables,Extra Hot,colombia,16,Hard,Yes,Yes,Yes,None
+Katsu Curry,chicken,Mild,japanese,43,Easy,No,No,No,Dairy
+Stuffed Peppers,vegetables,Extra Hot,mexican,45,Medium,Yes,No,Yes,"Gluten, Dairy"
+Teriyaki Salmon,salmon,Extra Hot,Japanese,22,Hard,Yes,Yes,Yes,"Nuts, Shellfish"
+Greek Salad,vegetables,Medium,greek,28,Medium,No,No,No,"None, Nuts"
+Banana Pancakes,bananas,Extra Hot,Thai,21,Easy,Yes,Yes,No,Soy
+Tomato Basil Soup,vegetables,Extra Hot,italian,30,Easy,No,No,Yes,None
+Sweet and Sour Pork,Pork,Extra Hot,chinese,37,Hard,Yes,No,Yes,Shellfish
+Macaroni and Cheese,none,Medium,american,29,Easy,No,No,No,None
+Fried Rice,vegetables,Hot,thai,23,Easy,Yes,Yes,No,"Nuts, Gluten"
+Enchiladas,chicken,Mild,mexican,22,Hard,No,No,Yes,None
+Chicken Pot Pie,chicken,Mild,American,29,Medium,No,No,No,Shellfish
+Stuffed Cabbage Rolls,vegetables,Mild,polish,39,Easy,No,No,Yes,"None, Nuts"
+Pasta Primavera,chicken,Medium,italian,13,Easy,No,No,Yes,Dairy
+Fish and Chips,fish,Hot,british,23,Hard,No,No,No,Gluten
+Chicken Satay,chicken,Mild,thai,24,Hard,No,No,Yes,None
+Tuna Casserole,tuna,Hot,american,43,Hard,No,No,Yes,Sesame
+French Onion Soup,vegetables,Medium,French,38,Medium,No,No,Yes,None
+Zucchini Noodles,vegetables,Hot,italian,11,Easy,No,No,No,"Gluten, Eggs"
+Beef Wellington,beef,Hot,british,12,Hard,No,No,No,"Gluten, None"
+Jollof Rice,none,Mild,african,15,Medium,No,No,No,None
+Okra Stew,vegetables,Hot,african,11,Easy,No,No,No,Shellfish
+Meatball Subs,pork,Medium,american,28,Medium,Yes,Yes,Yes,None
+Chicken Quesadillas,chicken,Extra Hot,mexican,24,Medium,Yes,Yes,Yes,None
+Vegetable Stir-Fry,vegetables,Mild,thai,12,Easy,No,No,Yes,None
+Chow Mein,beef,Mild,chinese,41,Medium,Yes,No,Yes,"Dairy, Eggs"
+Lentil Soup,vegetables,Mild,Indian,24,Hard,Yes,Yes,No,Eggs
+Chicken Cordon Bleu,chicken,Mild,french,30,Medium,Yes,No,Yes,None
+Pesto Pasta,none,Extra Hot,italian,22,Hard,No,No,Yes,"Gluten, Nuts"
+Banh Mi Sandwich,pork,Medium,Vietnamese,21,Easy,No,No,No,None
+Pav Bhaji,vegetables,Hot,Indian,19,Easy,No,No,No,None
+Fettuccine Alfredo,none,Medium,italian,17,Hard,No,No,No,"Dairy, Shellfish"
+Bibimbap,Beef,Mild,korean,43,Medium,No,No,Yes,"Shellfish, Sesame"
+Moroccan Couscous,none,Mild,Moroccan,37,Medium,Yes,No,No,Eggs
+Gnocchi,none,Mild,italian,28,Medium,No,No,No,Sesame
+Tofu Scramble,tofu,Medium,american,25,Hard,Yes,No,Yes,None
+Khao Soi,Tofu,Hot,thai,16,Easy,Yes,Yes,Yes,Dairy
+Pork Schnitzel,pork,Mild,german,17,Medium,Yes,Yes,Yes,"None, Shellfish"
+Vegetable Tempura,vegetables,Hot,japanese,40,Easy,Yes,Yes,No,None
+Beet Salad,vegetables,Hot,Moroccan,23,Hard,No,No,No,None
+Kofta Curry,beef,Extra Hot,indian,18,Hard,Yes,Yes,Yes,"Nuts, None"
+Mapo Tofu,tofu,Extra Hot,chinese,42,Hard,Yes,Yes,No,Nuts
+Char Siu Pork,pork,Medium,chinese,14,Easy,Yes,Yes,Yes,"Gluten, Dairy"
+Pozole,pork,Hot,mexican,35,Hard,No,No,Yes,Shellfish
+Ramen,none,Medium,japanese,25,Easy,Yes,No,Yes,None
+French Crepes,none,mild,french,42,Easy,No,No,Yes,Gluten
+Baklava,none,Mild,greek,30,Medium,No,No,Yes,"Dairy, Sesame"
+Shrimp and Grits,shrimp,Mild,American,38,Easy,No,No,Yes,None
+Miso Soup,none,Hot,japanese,30,Medium,No,No,No,Dairy
+Cuban Sandwich,pork,Hot,cuban,33,Easy,Yes,No,No,None
+Chicken Mole,chicken,Hot,mexican,26,Easy,No,No,Yes,None
+Adobo Chicken,chicken,Hot,filipino,36,Hard,No,No,No,Nuts
+Tamales,pork,Hot,mexican,20,Medium,Yes,Yes,No,Eggs
+Quiche Lorraine,bacon,Extra Hot,french,12,Hard,No,No,No,Shellfish
+Mulligatawny Soup,chicken,Medium,Indian,40,Medium,No,No,No,"Dairy, Gluten"
+Samosas,vegetables,Hot,indian,38,Hard,No,No,No,"Nuts, Dairy"
+Crab Cakes,crab,Extra Hot,american,41,Easy,No,No,No,None
+Risotto,none,Mild,italian,14,Easy,Yes,Yes,Yes,None
+Tostadas,beef,Medium,mexican,31,Medium,No,No,No,Eggs
+Bruschetta,none,Extra Hot,italian,29,Hard,No,No,No,None
+Manicotti,none,Extra Hot,italian,42,Medium,Yes,Yes,No,None
+Sauerbraten,beef,Extra Hot,german,28,Easy,No,No,No,"Shellfish, Sesame"
+Potato Latkes,potato,Medium,jewish,32,Easy,No,No,Yes,None
+Spanakopita,vegetables,Mild,greek,33,Easy,Yes,No,Yes,None
+Chicken Biriyani,Chicken,Hot,Indian,"Chicken, Rice",medium,no,no,no,none
